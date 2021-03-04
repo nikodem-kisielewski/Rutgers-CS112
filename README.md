@@ -1,5 +1,5 @@
 # Rutgers-CS112
-Course taken in Summer 2020.
+Course taken online in Summer 2020.
 
 PA1:  Making a simplified version of the card game "Uno" in Java using linked lists
 
